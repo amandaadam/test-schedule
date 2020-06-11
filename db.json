@@ -1,13 +1,13 @@
 [
   {
     "team": 1
-    "start": "3:00 pm",
-    "end": "3:30 pm",
-    "creator": "amanda@gmail.com",
-    "modifier": "justin@gmail.com",
-    "presented": false,
-    "location": "Ivey Rm 1220"
-    "message": "please proceed into the room"
+    "start" : "3:00 pm",
+    "end" : "3:30 pm",
+    "creator" : "amanda@gmail.com",
+    "modifier" : "justin@gmail.com",
+    "presented" : false,
+    "location" : "Ivey Rm 1220",
+    "message" : "please proceed into the room"
   },
   
   {
@@ -17,7 +17,7 @@
     "creator": "amanda@gmail.com",
     "modifier": "justin@gmail.com",
     "presented": false,
-    "location": "Ivey Rm 1220"
+    "location": "Ivey Rm 1220",
     "message": "delayed 5 minutes. Please stand by"
   },
    {
@@ -27,7 +27,7 @@
     "creator": "amanda@gmail.com",
     "modifier": "justin@gmail.com",
     "presented": false,
-    "location": "Ivey Rm 1220"
+    "location": "Ivey Rm 1220",
     "message": "delayed 5 minutes. Please stand by"
   },
    {
@@ -37,7 +37,7 @@
     "creator": "amanda@gmail.com",
     "modifier": "justin@gmail.com",
     "presented": false,
-    "location": "Ivey Rm 1220"
+    "location": "Ivey Rm 1220",
     "message": "delayed 5 minutes. Please stand by"
   },
 ]
