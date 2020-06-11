@@ -1,6 +1,6 @@
 [
   {
-    "team": 1
+    "team": 1,
     "start" : "3:00 pm",
     "end" : "3:30 pm",
     "creator" : "amanda@gmail.com",
@@ -11,7 +11,7 @@
   },
   
   {
-    "team": 2
+    "team": 2,
     "start": "3:30 pm",
     "end": "4:00 pm",
     "creator": "amanda@gmail.com",
@@ -21,7 +21,7 @@
     "message": "delayed 5 minutes. Please stand by"
   },
    {
-    "team": 3
+    "team": 3,
     "start": "4:00 pm",
     "end": "4:30 pm",
     "creator": "amanda@gmail.com",
@@ -31,7 +31,7 @@
     "message": "delayed 5 minutes. Please stand by"
   },
    {
-    "team": 4
+    "team": 4,
     "start": "4:30 pm",
     "end": "5:00 pm",
     "creator": "amanda@gmail.com",
