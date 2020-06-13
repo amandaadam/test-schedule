@@ -1,43 +1,39 @@
-[
-  {
-    "team": 1,
-    "start" : "3:00 pm",
-    "end" : "3:30 pm",
-    "creator" : "amanda@gmail.com",
-    "modifier" : "justin@gmail.com",
-    "presented" : false,
-    "location" : "Ivey Rm 1220",
-    "message" : "please proceed into the room"
-  },
+{
+  "judging-settings": [
+    {
+      "start": "3:00 pm",
+      "duration": "30 minutes",
+      "wait": "5 minutes"
+    }
+  ],
   
-  {
-    "team": 2,
-    "start": "3:30 pm",
-    "end": "4:00 pm",
-    "creator": "amanda@gmail.com",
-    "modifier": "justin@gmail.com",
-    "presented": false,
-    "location": "Ivey Rm 1220",
-    "message": "delayed 5 minutes. Please stand by"
-  },
+  "teams": [
+    {
+     "team": 1,
+      "presented" : false,
+      "location" : "Ivey Rm 1220",
+      "message" : "please proceed into the room"
+    },
+  
+    {
+     "team": 2,
+     "presented": false,
+     "location": "Ivey Rm 1220",
+     "message": "delayed 5 minutes. Please stand by"
+    },
+    
    {
-    "team": 3,
-    "start": "4:00 pm",
-    "end": "4:30 pm",
-    "creator": "amanda@gmail.com",
-    "modifier": "justin@gmail.com",
-    "presented": false,
-    "location": "Ivey Rm 1220",
-    "message": "delayed 5 minutes. Please stand by"
-  },
+     "team": 3,
+     "presented": false,
+     "location": "Ivey Rm 1220",
+     "message": "delayed 5 minutes. Please stand by"
+    },
+    
    {
-    "team": 4,
-    "start": "4:30 pm",
-    "end": "5:00 pm",
-    "creator": "amanda@gmail.com",
-    "modifier": "justin@gmail.com",
-    "presented": false,
-    "location": "Ivey Rm 1220",
-    "message": "delayed 5 minutes. Please stand by"
-  }
-]
+     "team": 4,
+     "presented": false,
+     "location": "Ivey Rm 1220",
+     "message": "delayed 5 minutes. Please stand by"
+    }
+  ]
+}
