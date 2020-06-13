@@ -1,5 +1,4 @@
-{
-  "groups": [
+[
     {
       "team": 1,
       "start": "3:00 pm",
@@ -41,4 +40,3 @@
       "message": "delayed 5 minutes. Please stand by"
     }
   ]
-}
